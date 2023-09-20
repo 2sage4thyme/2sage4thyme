@@ -1,5 +1,1 @@
 
-- In computer jargon, what’s the difference between a statement and a comment?      A statement is a part of a program that describes a step of the program, whereas a comment has no effect on the program, but contains information about the program and is located within the program
-- What does it mean to say that a program is portable?     A program is portable when it can be used on multiple kinds of devices.
-- In common English, what does the word compile mean?     Compile means translating code written by humans and understood by humans into code understood by the machines. This is done all at once.
-- What is an executable? Why is that word used as a noun?     An executable is code for an object that can be run on a specific hardware. It is a noun because it is a thing, a section of code.
